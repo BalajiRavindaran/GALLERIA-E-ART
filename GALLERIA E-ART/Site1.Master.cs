@@ -62,7 +62,7 @@ namespace GALLERIA_E_ART
                     LinkButton1.Visible = false; //MemberLogin
                     LinkButton2.Visible = false; //MemberSignUp
                     LinkButton6.Visible = false; //AdminLogin
-                    LinkButton8.Visible = false; //ArtInventory
+                    LinkButton8.Visible = true; //ArtInventory
                 }
             }
             catch (Exception exception)
